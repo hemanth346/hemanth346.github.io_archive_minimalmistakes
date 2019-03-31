@@ -3,6 +3,7 @@ title  : Tweet made me to start a blog, know why.!
 date : 2019-03-31
 ---
 
+# The tweet made me to start a blog
 
 I was inspired/motivated by a tweet to create this blog. The tweet talks about how OpenAI scholars have a blog of their own and why one should start their own. I'll list the points below
 

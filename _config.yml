@@ -110,7 +110,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Python developer, Machine Learning Engineer"
   location         : "Bangalore, India"
-  email            : hemanth346@gmail.com
+  email            : # your@email.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

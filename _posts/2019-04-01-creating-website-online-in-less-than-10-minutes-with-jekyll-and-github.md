@@ -25,13 +25,13 @@ For detailed instructions you can to go through quick start guide or documentati
 
 
 ## 3. Write posts, add pages
-Create a folder ***_posts*** in home directory if already not existing, proceed to write your posts - each in a new file, commit the changes. For adding pages - we create ***_pages*** folder and add files in required format
+Create a folder ***_posts*** in home directory if already not existing, proceed to write your posts - each in a new file, commit the changes. For adding pages - we create ***_pages*** folder and add files in required format, update ***_data/navigation.yml*** file
 
 
 Viola.!! Your blog is up and running.
 
 
-### Don't make it harder than it is. Remember these tips, they'll come handy until you get hold of things..!
+### Don't make it harder than it is. Remember below tips, they'll come handy until you get hold of things..!
 
 1. Always commit each and every file after editing it, commit one file at a time.
 2. Keep commits log open in separate tab, refresh it after every commit to check if the site is successfully built.

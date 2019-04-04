@@ -5,7 +5,7 @@ main:
   - title: "About"
     description : "Hemanth who.?"
     url: /about/
-  - title: "Posts"
+  - title: "Blog"
     url: /year-archive/
   - title: "Contact"
     description : Get in touch

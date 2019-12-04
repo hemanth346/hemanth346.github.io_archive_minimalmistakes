@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "Bio"
 author_profile: true
 ---
